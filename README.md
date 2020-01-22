@@ -1,2 +1,2 @@
 # github.io
-This is my first repository on GitHub.
+Hello, I'm shaun.
